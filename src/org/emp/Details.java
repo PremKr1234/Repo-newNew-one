@@ -18,6 +18,8 @@ public class Details {
 		System.out.println("Name is "+li.get(1).getName());
 		System.out.println("Mobile Nu is "+li.get(2).getPhone());
 		System.out.println("ksjdlsdvbladshf");
+		System.out.println("hello");
+		
 		
 	}
 

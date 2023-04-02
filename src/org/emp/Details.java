@@ -17,6 +17,7 @@ public class Details {
 		System.out.println("id is "+li.get(0).getId());
 		System.out.println("Name is "+li.get(1).getName());
 		System.out.println("Mobile Nu is "+li.get(2).getPhone());
+		System.out.println("hello");
 		
 		
 	}
